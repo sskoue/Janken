@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string name="again">Again</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="rock_paper_scissors">Rock, paper, scissors,</string>
+    <string name="_1_2">1, 2,,,</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+</resources>
